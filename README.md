@@ -1,3 +1,4 @@
+[![Runpod](https://api.runpod.io/badge/zalaa17/worker-sglang-with-vllm)](https://console.runpod.io/hub/zalaa17/worker-sglang-with-vllm)
 ![SGLang worker banner](https://cpjrphpz3t5wbwfe.public.blob.vercel-storage.com/worker-sglang_banner-A9R2vQzvSUmLvqMZ8MzehfZtRDxHJR.jpeg)
 
 Run LLMs and VLMs using [SGLang](https://docs.sglang.ai)
